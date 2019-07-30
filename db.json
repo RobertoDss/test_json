@@ -15,14 +15,14 @@
 	"fail": 
 	{
 		"IsSuccess":false,
-		"ErrorMessage":"Error",
+		"ErrorMessage":"Error"
 		
 	},
 	"success": 
 	{
 		"IsSuccess":true,
-		"ErrorMessage":null,
+		"ErrorMessage":null
 		
-	},
+	}
 	
 }
