@@ -1,13 +1,28 @@
 {
-"profile": {
-"IsSuccess":true,
-"ErrorMessage":null,
-"IP":[
-{"region":"us","ip":"10.0.0.4"},
-{"region":"wl","ip":"6.35.53.19"},
-{"region":"ap","ip":"6.35.53.19"},
-{"region":"au","ip":"6.35.53.19"},
-{"region":"uae","ip":"6.35.53.19"}
-]
-}
+	"bootstrap": 
+	{
+		"IsSuccess":true,
+		"ErrorMessage":null,
+		"IP":
+		[
+			{"region":"us","ip":"10.0.0.4"},
+			{"region":"uae","ip":"6.35.53.19"},
+			{"region":"ap","ip":"7.35.53.19"},
+			{"region":"au","ip":"8.35.53.19"},
+			{"region":"wl","ip":"9.35.53.19"}
+		]
+	},
+	"fail": 
+	{
+		"IsSuccess":false,
+		"ErrorMessage":"Error",
+		
+	},
+	"success": 
+	{
+		"IsSuccess":true,
+		"ErrorMessage":null,
+		
+	},
+	
 }
